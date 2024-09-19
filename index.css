@@ -8,9 +8,10 @@ body, p {
 
 body {
     background-image: url('manager.gif');
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
-    background-attachment: fixed; /* Optional: Keeps the background fixed */
+    background-position: center center;
+    background-attachment:fixed ; /* Optional: Keeps the background fixed */
 }
 
 
